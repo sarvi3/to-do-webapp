@@ -1,16 +1,21 @@
 # To-Do Web Application
 
-A simple task management web application built using HTML, CSS, and JavaScript.
+A task management web application built using HTML, CSS, and JavaScript.
 
-## Features
-- Add and delete tasks
-- Mark tasks as complete
+## 🚀 Features
+- Add, delete, and manage tasks
+- Mark tasks as completed
 - Filter tasks (All, Active, Completed)
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Purpose
-This project was created to practice JavaScript logic and build an interactive user interface.
+## 📌 What I Learned
+- Handling DOM manipulation using JavaScript
+- Implementing dynamic UI updates
+- Managing user interactions effectively
+
+## 🔗 Live Demo (if added later)
+(Add GitHub Pages link here)
