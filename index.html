@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simple To-Do App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <h1>To‑Do</h1>
+
+    <form id="todo-form" class="todo-form" autocomplete="off">
+      <input id="todo-input" placeholder="Add a new task" />
+      <button type="submit">Add</button>
+    </form>
+
+    <div class="controls">
+      <div class="filters">
+        <button data-filter="all" class="active">All</button>
+        <button data-filter="active">Active</button>
+        <button data-filter="completed">Completed</button>
+      </div>
+      <button id="clear-completed">Clear completed</button>
+    </div>
+
+    <ul id="todo-list" class="todo-list"></ul>
+
+    <footer class="footer">
+      <span id="items-left">0 items left</span>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
