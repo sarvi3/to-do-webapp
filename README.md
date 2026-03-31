@@ -17,5 +17,4 @@ A task management web application built using HTML, CSS, and JavaScript.
 - Implementing dynamic UI updates
 - Managing user interactions effectively
 
-## 🔗 Live Demo (if added later)
-(Add GitHub Pages link here)
+
